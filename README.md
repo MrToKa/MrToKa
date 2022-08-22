@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrToKa
 - 👀 I’m interested in automation.
 - 🌱 I’m currently learning C# so I can automate ePlan, because I am lazy. xD
-- 💞️ I’m looking to collaborate on ePlan scripts
+- 💞️ I’m looking to collaborate on ePlan scripts, Add-ons and APIs
 - 📫 How to reach me? e-mail@ t.chankov@abv.bg
